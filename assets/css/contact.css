@@ -112,7 +112,7 @@ input, textarea{
         padding-bottom: 0;
     }
 
-    .contact-conatiner{
+    .contact-container{
         gap: 1.5rem;
         margin-top: 3rem;
         height: auto;
@@ -132,7 +132,7 @@ input, textarea{
 }
 
 @media screen and (max-width: 600px) {
-    .contact-conatiner{
+    .contact-container{
         grid-template-columns: 1fr;
         gap: 3rem;
         margin-top: 0;
