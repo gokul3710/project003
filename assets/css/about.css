@@ -94,6 +94,7 @@
     border: 1px solid transparent;
     transition: var(--transition);
     position: relative;
+    border-radius: 1rem 0 1rem 0;
 }
 
 .team-member:hover{

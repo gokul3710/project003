@@ -39,7 +39,7 @@
 
 .aside-image{
     width: 12rem;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
 }
 
 .contact-aside h2{
@@ -60,7 +60,7 @@
 }
 
 .contact-socials{
-    display: flex;
+    /* display: flex; */
     gap: 0.8rem;
     margin-top: 3rem;
 }
@@ -98,6 +98,7 @@ input, textarea{
     padding: 1rem;
     background: var(--color--bg);
     color: var(--color--white);
+    border-radius: 0 0.5rem 0 0.5rem;
 }
 
 .contact-form .btn{
