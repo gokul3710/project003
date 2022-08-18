@@ -47,6 +47,7 @@ body{
     line-height: 1.7;
     color: var(--color--white);
     background: var(--color--bg);
+    background-image: url(../images/bg-texture.png);
 }
 
 .container{
@@ -130,6 +131,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-weight: 700;
 }
 
 nav button{
@@ -145,6 +147,7 @@ nav button{
 .nav-menu a{
     font-size: 0.9rem;
     transition: var(--transition);
+    font-weight: 600;
 }
 
 .nav-menu a:hover{
