@@ -50,6 +50,10 @@ body{
     background-image: url(../images/bg-texture.png);
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 .container{
     width: var(--container-width-lg);
     margin: 0 auto;
