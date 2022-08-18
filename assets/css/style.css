@@ -562,6 +562,11 @@ footer ul li a:hover{
 
     .nav-menu{
         right: 3%;
+        width: 14rem;
+    }
+
+    .nav-menu li{
+        height: 5rem;
     }
 
     header{
